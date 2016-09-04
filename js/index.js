@@ -103,7 +103,7 @@
 	$(function(){
 		$(".home_content").css({"padding-top":($(".active").height()-$(".home_content").height())/6});
 		$(".skill_content").css({"padding-top":($(".active").height()-$(".skill_content").height())/6});
-		$(".exp_content").css({"padding-top":($(".active").height()-$(".exp_content").height())/6});
+		$(".exp_content").css({"padding-top":($(".active").height()-$(".exp_content").height())/9});
 		$(".demo_content").css({"padding-top":($(".active").height()-$(".demo_content").height())/6});
 		$(".thanks_content").css({"padding-top":($(".active").height()-$(".thanks_content").height())/6});
 	});
